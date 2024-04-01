@@ -726,6 +726,7 @@ progress {
 .col-auto {
   flex: 0 0 auto;
   width: auto;
+  position: center;
 }
 
 .col-1 {
